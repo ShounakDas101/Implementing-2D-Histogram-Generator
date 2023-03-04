@@ -15,7 +15,7 @@ Compilation:
 
 Execution:
 
-	$./main.o input.dat distribution_index num_bins X_min X_max
+	$ ./main.o input.dat distribution_index num_bins X_min X_max
   
 	distribution_index (integer value)
 	-----------------------
@@ -32,4 +32,7 @@ Execution:
 	
 	example 
   
-  $./main.o input.dat 1 100 -2000.87 10000.9234
+  	$ ./main.o input.dat 1 100 -2000.87 10000.9234
+
+# Program Code Structure
+
