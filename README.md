@@ -152,3 +152,4 @@ Methods:
 # Further Improvements in the code
 1. Some of the member variable are in Public, better to put them in Private
 2. if any other Distribution should be added into the distribution function, therefore histogram function will be same far all distribution.
+3. Separate Header files should be added for each classes
