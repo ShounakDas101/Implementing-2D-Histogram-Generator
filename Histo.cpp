@@ -63,7 +63,7 @@ using namespace std;
 */
 class Vector3 {
 public:
-    double x, y, z;
+    double x, y, z;//these data members should be private and accesed by their respective get functions but could not be done due to time constraint
 
     Vector3() : x(0.0), y(0.0), z(0.0) {}//a default constructor that initializes all components to 0.
 
